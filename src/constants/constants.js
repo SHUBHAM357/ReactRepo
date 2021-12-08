@@ -1,0 +1,8 @@
+export var ActionTypes = {
+
+    INCREMENT_COUNTER :"INCREMENT",
+    DECREMENT_COUNTER :"DECREMENT",
+    USD_CURRENCY : "USD",
+    INR_CURRENCY : "INR"
+
+}
